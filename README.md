@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mominulhq
-- 👀 I’m interested in AI, ML, Deep Learning
-- 🌱 I’m currently learning Computer Vision & NLP
+- 👀 I’m interested in ML, Deep Learning, Computer Vision, Explainable AI (XAI)
+- 🌱 I’m currently learning Computer Vision & Explainable AI (XAI)
 - 💞️ I’m looking to collaborate on Computer Vision Projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mominulhq/)
 - 🌐 My Google Site: [Google Site Link](https://sites.google.com/view/mominulhq)
